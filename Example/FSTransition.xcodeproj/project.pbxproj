@@ -18,6 +18,38 @@
 		842E9D0A22F406BC00DC4FED /* ScaleSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842E9D0522F406BC00DC4FED /* ScaleSecondViewController.swift */; };
 		842E9D0B22F406BC00DC4FED /* ScaleFristViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 842E9D0622F406BC00DC4FED /* ScaleFristViewController.xib */; };
 		842E9D0D22F4095E00DC4FED /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842E9D0C22F4095E00DC4FED /* Images.xcassets */; };
+		84D3D49C22F7C505007124D8 /* SliderSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D47722F7C504007124D8 /* SliderSecondViewController.swift */; };
+		84D3D49D22F7C505007124D8 /* SliderSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D47822F7C504007124D8 /* SliderSecondViewController.xib */; };
+		84D3D49E22F7C505007124D8 /* SliderFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D47922F7C504007124D8 /* SliderFirstViewController.swift */; };
+		84D3D49F22F7C505007124D8 /* SliderFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D47A22F7C504007124D8 /* SliderFirstViewController.xib */; };
+		84D3D4A022F7C505007124D8 /* SliderTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D47B22F7C504007124D8 /* SliderTransitionAnimation.swift */; };
+		84D3D4A122F7C505007124D8 /* OpenDoorFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D47D22F7C504007124D8 /* OpenDoorFirstViewController.xib */; };
+		84D3D4A222F7C505007124D8 /* OpenDoorTranstionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D47E22F7C504007124D8 /* OpenDoorTranstionAnimation.swift */; };
+		84D3D4A322F7C505007124D8 /* OpenDoorSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D47F22F7C504007124D8 /* OpenDoorSecondViewController.swift */; };
+		84D3D4A422F7C505007124D8 /* OpenDoorSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D48022F7C504007124D8 /* OpenDoorSecondViewController.xib */; };
+		84D3D4A522F7C505007124D8 /* OpenDoorFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48122F7C504007124D8 /* OpenDoorFirstViewController.swift */; };
+		84D3D4A622F7C505007124D8 /* OpenMiddleSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48322F7C504007124D8 /* OpenMiddleSecondViewController.swift */; };
+		84D3D4A722F7C505007124D8 /* OpenMiddleFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D48422F7C504007124D8 /* OpenMiddleFirstViewController.xib */; };
+		84D3D4A822F7C505007124D8 /* OpenMiddleTranstionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48522F7C504007124D8 /* OpenMiddleTranstionAnimation.swift */; };
+		84D3D4A922F7C505007124D8 /* OpenMiddleSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D48622F7C504007124D8 /* OpenMiddleSecondViewController.xib */; };
+		84D3D4AA22F7C505007124D8 /* OpenMiddleFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48722F7C504007124D8 /* OpenMiddleFirstViewController.swift */; };
+		84D3D4AB22F7C505007124D8 /* ScrollViewFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D48922F7C505007124D8 /* ScrollViewFirstViewController.xib */; };
+		84D3D4AC22F7C505007124D8 /* ScrollViewFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48A22F7C505007124D8 /* ScrollViewFirstViewController.swift */; };
+		84D3D4AD22F7C505007124D8 /* ScrollViewSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48B22F7C505007124D8 /* ScrollViewSecondViewController.swift */; };
+		84D3D4AE22F7C505007124D8 /* ScrollViewSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D48C22F7C505007124D8 /* ScrollViewSecondViewController.xib */; };
+		84D3D4AF22F7C505007124D8 /* ScrollSecondFloorTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48D22F7C505007124D8 /* ScrollSecondFloorTransitionAnimation.swift */; };
+		84D3D4B022F7C505007124D8 /* CollectionSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D48F22F7C505007124D8 /* CollectionSecondViewController.swift */; };
+		84D3D4B122F7C505007124D8 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49022F7C505007124D8 /* CollectionViewCell.swift */; };
+		84D3D4B222F7C505007124D8 /* CollectionSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D49122F7C505007124D8 /* CollectionSecondViewController.xib */; };
+		84D3D4B322F7C505007124D8 /* CollectionFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49222F7C505007124D8 /* CollectionFirstViewController.swift */; };
+		84D3D4B422F7C505007124D8 /* CollectionFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D49322F7C505007124D8 /* CollectionFirstViewController.xib */; };
+		84D3D4B522F7C505007124D8 /* CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D49422F7C505007124D8 /* CollectionViewCell.xib */; };
+		84D3D4B622F7C505007124D8 /* CollectionTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49522F7C505007124D8 /* CollectionTransitionAnimation.swift */; };
+		84D3D4B722F7C505007124D8 /* SecondFloorFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D49722F7C505007124D8 /* SecondFloorFirstViewController.xib */; };
+		84D3D4B822F7C505007124D8 /* SecondFloorSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49822F7C505007124D8 /* SecondFloorSecondViewController.swift */; };
+		84D3D4B922F7C505007124D8 /* SecondFloorSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D3D49922F7C505007124D8 /* SecondFloorSecondViewController.xib */; };
+		84D3D4BA22F7C505007124D8 /* SecondFloorFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49A22F7C505007124D8 /* SecondFloorFirstViewController.swift */; };
+		84D3D4BB22F7C505007124D8 /* SecondFloorTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D3D49B22F7C505007124D8 /* SecondFloorTransitionAnimation.swift */; };
 		A0FFAE5F4CE579B81AD8D8D8 /* Pods_FSTransition_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57EAF6BF4D5E792D46AACC5B /* Pods_FSTransition_Example.framework */; };
 		D702C765535782970497F0C1 /* Pods_FSTransition_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05F86343FCB019547AD5001B /* Pods_FSTransition_Tests.framework */; };
 /* End PBXBuildFile section */
@@ -52,6 +84,38 @@
 		842E9D0522F406BC00DC4FED /* ScaleSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleSecondViewController.swift; sourceTree = "<group>"; };
 		842E9D0622F406BC00DC4FED /* ScaleFristViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ScaleFristViewController.xib; sourceTree = "<group>"; };
 		842E9D0C22F4095E00DC4FED /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		84D3D47722F7C504007124D8 /* SliderSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D47822F7C504007124D8 /* SliderSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SliderSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D47922F7C504007124D8 /* SliderFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D47A22F7C504007124D8 /* SliderFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SliderFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D47B22F7C504007124D8 /* SliderTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderTransitionAnimation.swift; sourceTree = "<group>"; };
+		84D3D47D22F7C504007124D8 /* OpenDoorFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OpenDoorFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D47E22F7C504007124D8 /* OpenDoorTranstionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenDoorTranstionAnimation.swift; sourceTree = "<group>"; };
+		84D3D47F22F7C504007124D8 /* OpenDoorSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenDoorSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D48022F7C504007124D8 /* OpenDoorSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OpenDoorSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D48122F7C504007124D8 /* OpenDoorFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenDoorFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D48322F7C504007124D8 /* OpenMiddleSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenMiddleSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D48422F7C504007124D8 /* OpenMiddleFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OpenMiddleFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D48522F7C504007124D8 /* OpenMiddleTranstionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenMiddleTranstionAnimation.swift; sourceTree = "<group>"; };
+		84D3D48622F7C504007124D8 /* OpenMiddleSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OpenMiddleSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D48722F7C504007124D8 /* OpenMiddleFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenMiddleFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D48922F7C505007124D8 /* ScrollViewFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ScrollViewFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D48A22F7C505007124D8 /* ScrollViewFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D48B22F7C505007124D8 /* ScrollViewSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D48C22F7C505007124D8 /* ScrollViewSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ScrollViewSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D48D22F7C505007124D8 /* ScrollSecondFloorTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollSecondFloorTransitionAnimation.swift; sourceTree = "<group>"; };
+		84D3D48F22F7C505007124D8 /* CollectionSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D49022F7C505007124D8 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		84D3D49122F7C505007124D8 /* CollectionSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D49222F7C505007124D8 /* CollectionFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D49322F7C505007124D8 /* CollectionFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D49422F7C505007124D8 /* CollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionViewCell.xib; sourceTree = "<group>"; };
+		84D3D49522F7C505007124D8 /* CollectionTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionTransitionAnimation.swift; sourceTree = "<group>"; };
+		84D3D49722F7C505007124D8 /* SecondFloorFirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondFloorFirstViewController.xib; sourceTree = "<group>"; };
+		84D3D49822F7C505007124D8 /* SecondFloorSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFloorSecondViewController.swift; sourceTree = "<group>"; };
+		84D3D49922F7C505007124D8 /* SecondFloorSecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondFloorSecondViewController.xib; sourceTree = "<group>"; };
+		84D3D49A22F7C505007124D8 /* SecondFloorFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFloorFirstViewController.swift; sourceTree = "<group>"; };
+		84D3D49B22F7C505007124D8 /* SecondFloorTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFloorTransitionAnimation.swift; sourceTree = "<group>"; };
 		84E06A2EE0FAD3BD16514B08 /* Pods-FSTransition_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FSTransition_Tests.debug.xcconfig"; path = "Target Support Files/Pods-FSTransition_Tests/Pods-FSTransition_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C2571937ADDA35FB81C41090 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CBD79227C4F09A3DE3C4BC9F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -103,6 +167,12 @@
 		607FACD21AFB9204008FA782 /* Example for FSTransition */ = {
 			isa = PBXGroup;
 			children = (
+				84D3D48E22F7C505007124D8 /* Collection */,
+				84D3D47C22F7C504007124D8 /* OpenDoor */,
+				84D3D48222F7C504007124D8 /* OpenMiddle */,
+				84D3D48822F7C505007124D8 /* ScrollSecondFloor */,
+				84D3D49622F7C505007124D8 /* SecondFloor */,
+				84D3D47622F7C504007124D8 /* Slider */,
 				842E9D0122F406BC00DC4FED /* Scale */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -169,6 +239,80 @@
 				842E9D0622F406BC00DC4FED /* ScaleFristViewController.xib */,
 			);
 			path = Scale;
+			sourceTree = "<group>";
+		};
+		84D3D47622F7C504007124D8 /* Slider */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D47722F7C504007124D8 /* SliderSecondViewController.swift */,
+				84D3D47822F7C504007124D8 /* SliderSecondViewController.xib */,
+				84D3D47922F7C504007124D8 /* SliderFirstViewController.swift */,
+				84D3D47A22F7C504007124D8 /* SliderFirstViewController.xib */,
+				84D3D47B22F7C504007124D8 /* SliderTransitionAnimation.swift */,
+			);
+			path = Slider;
+			sourceTree = "<group>";
+		};
+		84D3D47C22F7C504007124D8 /* OpenDoor */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D47D22F7C504007124D8 /* OpenDoorFirstViewController.xib */,
+				84D3D47E22F7C504007124D8 /* OpenDoorTranstionAnimation.swift */,
+				84D3D47F22F7C504007124D8 /* OpenDoorSecondViewController.swift */,
+				84D3D48022F7C504007124D8 /* OpenDoorSecondViewController.xib */,
+				84D3D48122F7C504007124D8 /* OpenDoorFirstViewController.swift */,
+			);
+			path = OpenDoor;
+			sourceTree = "<group>";
+		};
+		84D3D48222F7C504007124D8 /* OpenMiddle */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D48322F7C504007124D8 /* OpenMiddleSecondViewController.swift */,
+				84D3D48422F7C504007124D8 /* OpenMiddleFirstViewController.xib */,
+				84D3D48522F7C504007124D8 /* OpenMiddleTranstionAnimation.swift */,
+				84D3D48622F7C504007124D8 /* OpenMiddleSecondViewController.xib */,
+				84D3D48722F7C504007124D8 /* OpenMiddleFirstViewController.swift */,
+			);
+			path = OpenMiddle;
+			sourceTree = "<group>";
+		};
+		84D3D48822F7C505007124D8 /* ScrollSecondFloor */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D48922F7C505007124D8 /* ScrollViewFirstViewController.xib */,
+				84D3D48A22F7C505007124D8 /* ScrollViewFirstViewController.swift */,
+				84D3D48B22F7C505007124D8 /* ScrollViewSecondViewController.swift */,
+				84D3D48C22F7C505007124D8 /* ScrollViewSecondViewController.xib */,
+				84D3D48D22F7C505007124D8 /* ScrollSecondFloorTransitionAnimation.swift */,
+			);
+			path = ScrollSecondFloor;
+			sourceTree = "<group>";
+		};
+		84D3D48E22F7C505007124D8 /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D48F22F7C505007124D8 /* CollectionSecondViewController.swift */,
+				84D3D49022F7C505007124D8 /* CollectionViewCell.swift */,
+				84D3D49122F7C505007124D8 /* CollectionSecondViewController.xib */,
+				84D3D49222F7C505007124D8 /* CollectionFirstViewController.swift */,
+				84D3D49322F7C505007124D8 /* CollectionFirstViewController.xib */,
+				84D3D49422F7C505007124D8 /* CollectionViewCell.xib */,
+				84D3D49522F7C505007124D8 /* CollectionTransitionAnimation.swift */,
+			);
+			path = Collection;
+			sourceTree = "<group>";
+		};
+		84D3D49622F7C505007124D8 /* SecondFloor */ = {
+			isa = PBXGroup;
+			children = (
+				84D3D49722F7C505007124D8 /* SecondFloorFirstViewController.xib */,
+				84D3D49822F7C505007124D8 /* SecondFloorSecondViewController.swift */,
+				84D3D49922F7C505007124D8 /* SecondFloorSecondViewController.xib */,
+				84D3D49A22F7C505007124D8 /* SecondFloorFirstViewController.swift */,
+				84D3D49B22F7C505007124D8 /* SecondFloorTransitionAnimation.swift */,
+			);
+			path = SecondFloor;
 			sourceTree = "<group>";
 		};
 		C33EC065F0306B60649F884E /* Pods */ = {
@@ -269,10 +413,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84D3D4B222F7C505007124D8 /* CollectionSecondViewController.xib in Resources */,
+				84D3D4B922F7C505007124D8 /* SecondFloorSecondViewController.xib in Resources */,
 				842E9D0B22F406BC00DC4FED /* ScaleFristViewController.xib in Resources */,
+				84D3D4AB22F7C505007124D8 /* ScrollViewFirstViewController.xib in Resources */,
+				84D3D4A922F7C505007124D8 /* OpenMiddleSecondViewController.xib in Resources */,
+				84D3D4AE22F7C505007124D8 /* ScrollViewSecondViewController.xib in Resources */,
+				84D3D4B422F7C505007124D8 /* CollectionFirstViewController.xib in Resources */,
+				84D3D49D22F7C505007124D8 /* SliderSecondViewController.xib in Resources */,
+				84D3D4A422F7C505007124D8 /* OpenDoorSecondViewController.xib in Resources */,
+				84D3D49F22F7C505007124D8 /* SliderFirstViewController.xib in Resources */,
 				842E9D0D22F4095E00DC4FED /* Images.xcassets in Resources */,
+				84D3D4B722F7C505007124D8 /* SecondFloorFirstViewController.xib in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				84D3D4A722F7C505007124D8 /* OpenMiddleFirstViewController.xib in Resources */,
+				84D3D4A122F7C505007124D8 /* OpenDoorFirstViewController.xib in Resources */,
 				842E9D0822F406BC00DC4FED /* ScaleSecondViewController.xib in Resources */,
+				84D3D4B522F7C505007124D8 /* CollectionViewCell.xib in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -356,11 +513,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84D3D4BB22F7C505007124D8 /* SecondFloorTransitionAnimation.swift in Sources */,
+				84D3D4A022F7C505007124D8 /* SliderTransitionAnimation.swift in Sources */,
+				84D3D4B322F7C505007124D8 /* CollectionFirstViewController.swift in Sources */,
+				84D3D49E22F7C505007124D8 /* SliderFirstViewController.swift in Sources */,
 				842E9D0922F406BC00DC4FED /* ScaleFristViewController.swift in Sources */,
+				84D3D4A222F7C505007124D8 /* OpenDoorTranstionAnimation.swift in Sources */,
+				84D3D4AD22F7C505007124D8 /* ScrollViewSecondViewController.swift in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
+				84D3D4AC22F7C505007124D8 /* ScrollViewFirstViewController.swift in Sources */,
+				84D3D49C22F7C505007124D8 /* SliderSecondViewController.swift in Sources */,
 				842E9D0A22F406BC00DC4FED /* ScaleSecondViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
+				84D3D4B122F7C505007124D8 /* CollectionViewCell.swift in Sources */,
+				84D3D4AA22F7C505007124D8 /* OpenMiddleFirstViewController.swift in Sources */,
+				84D3D4B822F7C505007124D8 /* SecondFloorSecondViewController.swift in Sources */,
+				84D3D4A322F7C505007124D8 /* OpenDoorSecondViewController.swift in Sources */,
 				842E9D0722F406BC00DC4FED /* ScaleTransitionAnimation.swift in Sources */,
+				84D3D4BA22F7C505007124D8 /* SecondFloorFirstViewController.swift in Sources */,
+				84D3D4AF22F7C505007124D8 /* ScrollSecondFloorTransitionAnimation.swift in Sources */,
+				84D3D4B022F7C505007124D8 /* CollectionSecondViewController.swift in Sources */,
+				84D3D4A522F7C505007124D8 /* OpenDoorFirstViewController.swift in Sources */,
+				84D3D4A622F7C505007124D8 /* OpenMiddleSecondViewController.swift in Sources */,
+				84D3D4B622F7C505007124D8 /* CollectionTransitionAnimation.swift in Sources */,
+				84D3D4A822F7C505007124D8 /* OpenMiddleTranstionAnimation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
